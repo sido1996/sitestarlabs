@@ -16,7 +16,7 @@ if (!empty($_POST['email']) && isset($_POST['contacter'])) {
     if (isset($_POST['email'])) {
         $mail->AddReplyTo('mail@e-vidoleservices.com', 'mail');
         //$mail->addCC('moucharafamadou0@gmail.com', 'moucharaf');
-        $mail->addCC('sidoinea96@gmail.com', 'sidoine');
+        $mail->addCC('sidoinea19@gmail.com', 'sidoine');
     }
 
     //$mail->SMTPDebug  = 1;                     // enables SMTP debug information (for testing)
