@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lyst-club.no	TRUE	/	FALSE	1999999999	PHPSESSID	imv4jgmkluod5gpmv38btiujgh
+
